@@ -1,0 +1,41 @@
+body{
+
+  font-family: 'Abel', serif;
+  font-size: 30px;
+  text-shadow: 4px 4px 4px orange;
+}
+      
+}
+
+span{
+	color:#711;
+}
+
+
+#input{
+	border:0;
+    background:#EBE547;
+    padding :5px;
+    border:1px solid #421;
+    
+}
+.bot-image {
+	background-image:url("cb.png");
+      
+	  background-color: #cccccc;
+	  height: 500px;
+	  background-position: center;
+	  background-repeat: no-repeat;
+	  background-size: cover;
+	  position: relative;
+
+     
+}
+#main{
+	text-align: center;
+	  position: absolute;
+	  top: 60%;
+	  left: 50%;
+	  transform: translate(-50%, -50%);
+	  color: blue;
+}
